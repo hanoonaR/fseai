@@ -19,18 +19,18 @@ setuptools.setup(
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
         "Intended Audience :: Education",
-        "License :: OSI Approved :: Apache License, Version 2.0 (Apache-2.0)",
+        "License :: OSI Approved :: Apache Software License",
         "Natural Language :: English",
         "Operating System :: OS Independent",
-        "Operating System :: Microsoft :: Windows :: Windows 10"
-        "Environment :: Win32 (MS Windows)"
+        "Operating System :: Microsoft :: Windows :: Windows 10",
+        "Environment :: Win32 (MS Windows)",
         "Programming Language :: Python :: 3 :: Only",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
         "Topic :: Scientific/Engineering",
         "Topic :: Utilities",
-        "Topic :: Scientific/Engineering :: Artificial Intelligence",       
+        "Topic :: Scientific/Engineering :: Artificial Intelligence",
     ],
     python_requires='>=3.6',
 )
