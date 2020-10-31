@@ -7,7 +7,7 @@ setuptools.setup(
     name="fseai",
     version="0.0.1",
     author="Hanoona Rasheed",
-    author_email="hanoona@uniqueroboticsedu.com",
+    author_email="hanoona.rasheed@inkerrobotics.com.com",
     description="Full Stack Engineering AI course package",
     long_description=long_description,
     long_description_content_type="text/markdown",
